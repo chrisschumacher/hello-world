@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hello Apex IT!
+My name is Chris Schuamcher
